@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="user-form-container">
+    <h2>Создание нового пользователя</h2>
+    <form method="POST" action="{{ url_for('create_user') }}">
+        <div class="form-group">
+            <label for="name">ФИО</label>
+            <input type="text" id="name" name="name" required class="form-control">
+        </div>
+        
+        <div class="form-group">
+            <label for="phone">Телефон</label>
+            <input type="tel" id="phone" name="phone" required class="form-control" 
+                   placeholder="+7 (999) 123-45-67">
+        </div>
+        
+        <div class="form-group">
+            <label for="password">Пароль</label>
+            <input type="password" id="password" name="password" required class="form-control">
+        </div>
+        
+        <div class="form-group">
+            <label for="role">Роль</label>
+            <select id="role" name="role" required class="form-control">
+                <option value="client">Клиент</option>
+                <option value="employee">Сотрудник</option>
+                <option value="admin">Администратор</option>
+            </select>
+        </div>
+        
+        <div class="form-actions">
+            <button type="submit" class="btn btn-primary">Создать</button>
+            <a href="{{ url_for('admin_dashboard') }}" class="btn btn-secondary">Отмена</a>
+        </div>
+    </form>
+</div>
+{% endblock %}

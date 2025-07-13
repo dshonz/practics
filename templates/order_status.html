@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="order-status-container">
+    <h2>Заявка #{{ order['id'] }}</h2>
+    
+    <div class="order-details">
+        <div class="detail-card">
+            <h3>Информация о заявке</h3>
+            <p><strong>Статус:</strong> <span class="status-badge">{{ order['status'] }}</span></p>
+            <p><strong>Дата создания:</strong> {{ order['created_at'] }}</p>
+            {% if order['updated_at'] %}
+                <p><strong>Последнее обновление:</strong> {{ order['updated_at'] }}</p>
+            {% endif %}
+            {% if order['price'] %}
+                <p><strong>Стоимость ремонта:</strong> {{ "%.2f"|format(order['price']) }} ₽</p>
+            {% endif %}
+        </div>
+        
+        <div class="detail-card">
+            <h3>Информация об устройстве</h3>
+            <p><strong>Тип:</strong> {{ order['device_type'] }}</p>
+            <p><strong>Модель:</strong> {{ order['device_model'] }}</p>
+        </div>
+        
+        <div class="detail-card">
+            <h3>Описание проблемы</h3>
+            <p>{{ order['problem_description'] }}</p>
+        </div>
+    </div>
+    
+    <div class="order-actions">
+        <a href="{{ url_for('dashboard') }}" class="btn btn-secondary">
+            <i class="fas fa-arrow-left"></i> Назад
+        </a>
+        
+        {% if session.get('role') in ['admin', 'employee'] %}
+            <form method="POST" action="{{ url_for('update_order', order_id=order['id']) }}" class="status-form">
+                <select name="status" class="form-control">
+                    <option value="Ожидание сдачи" {% if order['status'] == 'Ожидание сдачи' %}selected{% endif %}>Ожидание сдачи</option>
+                    <option value="Принят в работу" {% if order['status'] == 'Принят в работу' %}selected{% endif %}>Принят в работу</option>
+                    <option value="Готов к выдаче" {% if order['status'] == 'Готов к выдаче' %}selected{% endif %}>Готов к выдаче</option>
+                    <option value="Выдано" {% if order['status'] == 'Выдано' %}selected{% endif %}>Выдано</option>
+                    <option value="Отменено" {% if order['status'] == 'Отменено' %}selected{% endif %}>Отменить</option>
+                </select>
+                <input type="number" name="price" value="{{ order['price'] or '' }}" 
+                       placeholder="Цена" step="0.01" min="0" class="form-control">
+                <button type="submit" class="btn btn-primary">
+                    <i class="fas fa-save"></i> Обновить
+                </button>
+            </form>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}

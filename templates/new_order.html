@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="order-form">
+    <h2>Создать новый заказ</h2>
+    <form method="POST" action="{{ url_for('new_order') }}">
+        <div class="form-group">
+            <label for="device_type">Тип устройства</label>
+            <select id="device_type" name="device_type" required class="form-control">
+                <option value="">Выберите тип устройства</option>
+                <option value="Смартфон">Смартфон</option>
+                <option value="Планшет">Планшет</option>
+                <option value="Умные часы">Умные часы</option>
+                <option value="Другое">Другое устройство</option>
+            </select>
+        </div>
+        
+        <div class="form-group">
+            <label for="device_model">Модель устройства</label>
+            <input type="text" id="device_model" name="device_model" required placeholder="Например: iPhone 12 или Samsung Galaxy S21">
+        </div>
+        
+        <div class="form-group">
+            <label for="problem_description">Описание проблемы</label>
+            <textarea id="problem_description" name="problem_description" rows="5" required 
+                      placeholder="Подробно опишите проблему, симптомы и когда появилась неисправность"></textarea>
+        </div>
+        
+        <div class="form-actions">
+            <button type="submit" class="btn btn-primary">Отправить на ремонт</button>
+            <a href="{{ url_for('dashboard') }}" class="btn btn-secondary">Отмена</a>
+        </div>
+    </form>
+</div>
+{% endblock %}
