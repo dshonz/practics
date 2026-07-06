@@ -1,0 +1,472 @@
+[
+    {
+        "timestamp": "2026-07-02 09:03:31",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 89.93
+    },
+    {
+        "timestamp": "2026-07-02 10:53:03",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 99.98
+    },
+    {
+        "timestamp": "2026-07-02 10:53:47",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 99.98
+    },
+    {
+        "timestamp": "2026-07-02 10:53:59",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 99.98
+    },
+    {
+        "timestamp": "2026-07-02 10:54:12",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 99.98
+    },
+    {
+        "timestamp": "2026-07-02 10:55:06",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 99.83
+    },
+    {
+        "timestamp": "2026-07-02 10:55:53",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 99.83
+    },
+    {
+        "timestamp": "2026-07-02 10:59:12",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 99.99
+    },
+    {
+        "timestamp": "2026-07-02 11:00:02",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 86.09
+    },
+    {
+        "timestamp": "2026-07-02 11:01:07",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 99.94
+    },
+    {
+        "timestamp": "2026-07-02 11:02:13",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:18:13",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:18:24",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 99.99
+    },
+    {
+        "timestamp": "2026-07-02 12:18:40",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:18:52",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 99.96
+    },
+    {
+        "timestamp": "2026-07-02 12:19:05",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:19:49",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 99.48
+    },
+    {
+        "timestamp": "2026-07-02 12:20:06",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:20:12",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 99.92
+    },
+    {
+        "timestamp": "2026-07-02 12:20:33",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:20:53",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:21:56",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:22:10",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:22:19",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 99.92
+    },
+    {
+        "timestamp": "2026-07-02 12:22:52",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:23:53",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 99.59
+    },
+    {
+        "timestamp": "2026-07-02 12:24:23",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 99.98
+    },
+    {
+        "timestamp": "2026-07-02 12:24:51",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:25:50",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:26:14",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:26:52",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 99.99
+    },
+    {
+        "timestamp": "2026-07-02 12:27:27",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:27:31",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:28:07",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:28:23",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:28:26",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:31:29",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 99.99
+    },
+    {
+        "timestamp": "2026-07-02 12:31:39",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 97.75
+    },
+    {
+        "timestamp": "2026-07-02 12:31:57",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 74.51
+    },
+    {
+        "timestamp": "2026-07-02 12:32:02",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 98.69
+    },
+    {
+        "timestamp": "2026-07-02 12:32:43",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:33:35",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:33:42",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:34:37",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 87.56
+    },
+    {
+        "timestamp": "2026-07-02 12:34:47",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 99.96
+    },
+    {
+        "timestamp": "2026-07-02 12:34:51",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 97.12
+    },
+    {
+        "timestamp": "2026-07-02 12:35:16",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:35:24",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 84.67
+    },
+    {
+        "timestamp": "2026-07-02 12:35:29",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 94.73
+    },
+    {
+        "timestamp": "2026-07-02 12:35:34",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 99.96
+    },
+    {
+        "timestamp": "2026-07-02 12:35:41",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 99.87
+    },
+    {
+        "timestamp": "2026-07-02 12:35:51",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 94.27
+    },
+    {
+        "timestamp": "2026-07-02 12:35:56",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 89.08
+    },
+    {
+        "timestamp": "2026-07-02 12:36:01",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 86.8
+    },
+    {
+        "timestamp": "2026-07-02 12:36:07",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 88.23
+    },
+    {
+        "timestamp": "2026-07-02 12:36:09",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 83.71
+    },
+    {
+        "timestamp": "2026-07-02 12:36:44",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 99.99
+    },
+    {
+        "timestamp": "2026-07-02 12:36:49",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 99.93
+    },
+    {
+        "timestamp": "2026-07-02 12:36:56",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 88.83
+    },
+    {
+        "timestamp": "2026-07-02 12:37:01",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 99.89
+    },
+    {
+        "timestamp": "2026-07-02 12:37:07",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:37:16",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 98.56
+    },
+    {
+        "timestamp": "2026-07-02 12:37:18",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:37:34",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:37:37",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 99.99
+    },
+    {
+        "timestamp": "2026-07-02 12:37:55",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 98.74
+    },
+    {
+        "timestamp": "2026-07-02 12:38:10",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 99.73
+    },
+    {
+        "timestamp": "2026-07-02 12:38:34",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:38:37",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 99.98
+    },
+    {
+        "timestamp": "2026-07-02 12:38:46",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 99.95
+    },
+    {
+        "timestamp": "2026-07-02 12:39:08",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 99.98
+    },
+    {
+        "timestamp": "2026-07-02 12:39:16",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 99.86
+    },
+    {
+        "timestamp": "2026-07-02 12:39:22",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 99.99
+    },
+    {
+        "timestamp": "2026-07-02 12:39:30",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 99.94
+    },
+    {
+        "timestamp": "2026-07-02 12:39:42",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:39:47",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-02 12:40:02",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 97.58
+    },
+    {
+        "timestamp": "2026-07-02 12:40:06",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 99.98
+    },
+    {
+        "timestamp": "2026-07-02 12:40:21",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 87.84
+    },
+    {
+        "timestamp": "2026-07-02 12:40:24",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 92.17
+    },
+    {
+        "timestamp": "2026-07-02 12:40:39",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 90.26
+    },
+    {
+        "timestamp": "2026-07-02 12:40:51",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 85.08
+    },
+    {
+        "timestamp": "2026-07-02 12:40:57",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 98.33
+    },
+    {
+        "timestamp": "2026-07-02 12:40:59",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 84.04
+    },
+    {
+        "timestamp": "2026-07-02 12:41:09",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 99.92
+    },
+    {
+        "timestamp": "2026-07-02 12:41:27",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 64.15
+    },
+    {
+        "timestamp": "2026-07-02 12:41:57",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 81.11
+    },
+    {
+        "timestamp": "2026-07-02 12:42:09",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 83.38
+    },
+    {
+        "timestamp": "2026-07-02 12:42:13",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 95.03
+    },
+    {
+        "timestamp": "2026-07-02 12:42:47",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 99.99
+    },
+    {
+        "timestamp": "2026-07-02 12:43:05",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 90.17
+    },
+    {
+        "timestamp": "2026-07-02 12:43:09",
+        "prediction": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u043e",
+        "confidence": 97.36
+    },
+    {
+        "timestamp": "2026-07-02 12:43:18",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 93.1
+    },
+    {
+        "timestamp": "2026-07-02 12:43:33",
+        "prediction": "\u0417\u0430\u043d\u044f\u0442\u043e",
+        "confidence": 99.51
+    }
+]
